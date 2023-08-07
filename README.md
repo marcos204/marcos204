@@ -6,6 +6,7 @@
 
 ![Marcos204 GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos204&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos204&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que eu uso no meu dia
 
 <div stile="display: inline_block"><br/>
