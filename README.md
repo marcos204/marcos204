@@ -1,7 +1,7 @@
 ## Olá! Eu sou Marcos Luiz
 
-- 🔭 No Momento Trabalho como Estagiário no Ministério da Agricultura
-- 🌱 Estudando Python
+- 🔭 No Momento Trabalho como Tecnico de Suporte em TI
+- 🌱 Estudando Docker
 - 😄 Pronouns: Ele/Dele
 
 ![Marcos204 GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos204&show_icons=true&theme=dracula)
